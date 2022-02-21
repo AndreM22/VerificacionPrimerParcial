@@ -35,9 +35,9 @@ public class RegistroTest {
 	@Test
 	public void verifyLogin2() {
 		
-		String username=""; 
-		String password=""; 
-		String expectedResult="Incorrect USER and PWD";
+		String username="Andre"; 
+		String password="222"; 
+		String expectedResult="CRUD";
 		Registro registro = new Registro(verificarUsuarios);
 
 
