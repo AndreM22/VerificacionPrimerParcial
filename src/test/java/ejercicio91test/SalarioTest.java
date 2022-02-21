@@ -1,4 +1,4 @@
-package ejercicio91;
+package ejercicio91test;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

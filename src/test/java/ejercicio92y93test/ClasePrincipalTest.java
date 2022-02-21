@@ -1,4 +1,4 @@
-package mock;
+package ejercicio92y93test;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
